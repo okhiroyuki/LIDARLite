@@ -1,0 +1,16 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LIDERLite                     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setDelay                  KEYWORD2
+readDistance              KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+LIDERLite             KEYWORD2
