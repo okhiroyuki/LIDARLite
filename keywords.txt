@@ -9,6 +9,7 @@ LIDERLite                     KEYWORD1
 
 setDelay                  KEYWORD2
 readDistance              KEYWORD2
+selectMultiplexerChannel  KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
